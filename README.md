@@ -38,6 +38,27 @@
     </td>
   </tr>
   <tr>
+    <td width="140" align="center" valign="top">
+      <a href="https://github.com/mohammadibrahimdev/zavyx-screen-recorder">
+        <img src="assets/products/zavyx-sr.png" width="110" alt="Zavyx Screen Recorder logo">
+      </a>
+    </td>
+    <td valign="top">
+      <h3><a href="https://github.com/mohammadibrahimdev/zavyx-screen-recorder">Zavyx Screen Recorder</a> <sub>· Zavyx SR</sub></h3>
+      Record your screen, a window, games, your webcam or sound only — with system audio and microphone in sync,
+      drawing on the screen while recording, no watermark and no time limit.<br><br>
+      <a href="https://github.com/mohammadibrahimdev/zavyx-screen-recorder/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/mohammadibrahimdev/zavyx-screen-recorder?label=download&color=6d4aff"></a>
+      <img alt="Windows" src="https://img.shields.io/badge/Windows-10%20%7C%2011-6d4aff">
+      <img alt="Built with Rust" src="https://img.shields.io/badge/built%20with-Rust-6d4aff">
+      <br><br>
+      <a href="https://github.com/mohammadibrahimdev/zavyx-screen-recorder/releases/latest"><b>⬇ Download</b></a>
+      &nbsp;·&nbsp;
+      <a href="https://github.com/mohammadibrahimdev/zavyx-screen-recorder">Source code</a>
+      &nbsp;·&nbsp;
+      <a href="https://github.com/mohammadibrahimdev/zavyx-screen-recorder/issues">Report a bug</a>
+    </td>
+  </tr>
+  <tr>
     <td width="140" align="center" valign="middle">
       <img src="assets/zavyx-mark-512.png" width="72" alt="" style="opacity:.5">
     </td>
