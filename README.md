@@ -59,6 +59,27 @@
     </td>
   </tr>
   <tr>
+    <td width="140" align="center" valign="top">
+      <a href="https://github.com/mohammadibrahimdev/zavyx-video-editor">
+        <img src="assets/products/zavyx-ve.png" width="110" alt="Zavyx Video Editor logo">
+      </a>
+    </td>
+    <td valign="top">
+      <h3><a href="https://github.com/mohammadibrahimdev/zavyx-video-editor">Zavyx Video Editor</a> <sub>· Zavyx VE</sub></h3>
+      Edit videos on a multi-track timeline with titles, 30 transitions, 40+ effects and filters, colour and
+      keyframe animation, then export to MP4 — no watermark, for 64-bit and 32-bit Windows.<br><br>
+      <a href="https://github.com/mohammadibrahimdev/zavyx-video-editor/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/mohammadibrahimdev/zavyx-video-editor?label=download&color=6d4aff"></a>
+      <img alt="Windows" src="https://img.shields.io/badge/Windows-10%20%7C%2011-6d4aff">
+      <img alt="Built with Rust" src="https://img.shields.io/badge/built%20with-Rust-6d4aff">
+      <br><br>
+      <a href="https://github.com/mohammadibrahimdev/zavyx-video-editor/releases/latest"><b>⬇ Download</b></a>
+      &nbsp;·&nbsp;
+      <a href="https://github.com/mohammadibrahimdev/zavyx-video-editor">Source code</a>
+      &nbsp;·&nbsp;
+      <a href="https://github.com/mohammadibrahimdev/zavyx-video-editor/issues">Report a bug</a>
+    </td>
+  </tr>
+  <tr>
     <td width="140" align="center" valign="middle">
       <img src="assets/zavyx-mark-512.png" width="72" alt="" style="opacity:.5">
     </td>
