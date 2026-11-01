@@ -28,7 +28,7 @@ BG_BOTTOM = (36, 26, 77)
 Z = [(74, 70), (182, 70), (182, 100), (112, 156), (182, 156),
      (182, 186), (74, 186), (74, 156), (144, 100), (74, 100)]
 
-TAGLINE = "Free & open-source tools for everyone"
+TAGLINE = "Free tools for everyone"
 BYLINE = "by Mohammad Ibrahim  ·  github.com/mohammadibrahimdev"
 
 

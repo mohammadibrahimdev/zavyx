@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Zavyx — free and open-source tools for everyone" width="100%">
+  <img src="assets/banner.png" alt="Zavyx — free tools for everyone" width="100%">
 </p>
 
 <p align="center">
-  <b>Zavyx</b> is a family of free, open-source desktop tools — built to be simple, fast and respectful of your privacy.<br>
-  No ads. No trials. No tracking. Just useful software you can read, trust and improve.
+  <b>Zavyx</b> is a family of free desktop tools — built to be simple, fast and respectful of your privacy.<br>
+  No ads. No trials. No tracking. Just useful software you can trust.
 </p>
 
 <p align="center">
@@ -95,7 +95,7 @@
 | | |
 | --- | --- |
 | **Free forever** | No paid tiers, no trial timers, no nag screens. |
-| **Open source** | All code is public under the MIT licence — read it, build it, improve it. |
+| **Transparent** | The source code is public so anyone can read and check it. Free to use — not for sale or re-branding ([Zavyx Freeware License](https://github.com/mohammadibrahimdev/zavyx-video-editor/blob/main/LICENSE)). |
 | **Private** | No ads, no analytics, no data leaves your computer unless you ask it to. |
 | **Simple** | Clean, familiar interfaces that just work for everyday users. |
 
