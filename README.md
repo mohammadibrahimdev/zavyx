@@ -66,8 +66,8 @@
     </td>
     <td valign="top">
       <h3><a href="https://github.com/mohammadibrahimdev/zavyx-video-editor">Zavyx Video Editor</a> <sub>· Zavyx VE</sub></h3>
-      Edit videos on a multi-track timeline with titles, 30 transitions, 40+ effects and filters, colour and
-      keyframe animation, then export to MP4 — no watermark, for 64-bit and 32-bit Windows.<br><br>
+      A professional editor: multi-track timeline, colour grading with scopes, titles and captions, effects and
+      keyframes, audio mixing, export to MP4 — open source, no watermark, for 64-bit and 32-bit Windows.<br><br>
       <a href="https://github.com/mohammadibrahimdev/zavyx-video-editor/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/mohammadibrahimdev/zavyx-video-editor?label=download&color=6d4aff"></a>
       <img alt="Windows" src="https://img.shields.io/badge/Windows-10%20%7C%2011-6d4aff">
       <img alt="Built with Rust" src="https://img.shields.io/badge/built%20with-Rust-6d4aff">
@@ -95,7 +95,7 @@
 | | |
 | --- | --- |
 | **Free forever** | No paid tiers, no trial timers, no nag screens. |
-| **Transparent** | The source code is public so anyone can read and check it. Free to use — not for sale or re-branding ([Zavyx Freeware License](https://github.com/mohammadibrahimdev/zavyx-video-editor/blob/main/LICENSE)). |
+| **Open source** | Every Zavyx tool is free and open source under the MIT or Apache-2.0 licence, so anyone can read, check and build the code. |
 | **Private** | No ads, no analytics, no data leaves your computer unless you ask it to. |
 | **Simple** | Clean, familiar interfaces that just work for everyday users. |
 
