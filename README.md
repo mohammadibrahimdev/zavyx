@@ -77,6 +77,8 @@
       <a href="https://github.com/mohammadibrahimdev/zavyx-video-editor">Source code</a>
       &nbsp;·&nbsp;
       <a href="https://github.com/mohammadibrahimdev/zavyx-video-editor/issues">Report a bug</a>
+      &nbsp;·&nbsp;
+      Older PC? <a href="https://github.com/mohammadibrahimdev/zavyx-video-editor-lite">Zavyx VE Lite</a>
     </td>
   </tr>
   <tr>
